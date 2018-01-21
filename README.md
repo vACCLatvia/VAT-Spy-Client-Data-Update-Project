@@ -8,7 +8,7 @@ VATSIM Caribbean Division (VATCAR) has taken the steps to attempt to create a ce
 
 # How Do I Submit Updates?
 
-Updates will be pushed that either come from verified github accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are accomponied by an e-mail to the contributors.
+Updates will be pushed that either come from verified github accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are accomponied by an e-mail to the collaborators.
 
 <br>
 
