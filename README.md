@@ -14,6 +14,6 @@ Updates will be pushed that either come from verified github accounts belonging 
 
 # How Do I Verify My Account To Submit Updates?
 
-Please have your Region, Division, or FIR/ARTCC Leadership send an email to the contributors from their staff Region, Division, or FIR/ARTCC linked account.
+Please have your Region, Division, or FIR/ARTCC Leadership send an email to the collaborators from their staff Region, Division, or FIR/ARTCC linked account.
 
 <br>
