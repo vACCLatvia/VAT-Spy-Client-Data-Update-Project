@@ -14,7 +14,7 @@ Updates will be pushed that either come from verified github accounts belonging 
 
 # How Do I Verify My Account To Submit Updates?
 
-Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email to the collaborators from your/theirr staff Region, Division, or FIR/ARTCC linked account to update (at) vatspy.vatcar.org
+Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email to the collaborators from your/their staff Region, Division, or FIR/ARTCC linked account to update (at) vatspy.vatcar.org
 
 <br>
 <br>
