@@ -17,3 +17,13 @@ Updates will be pushed that either come from verified github accounts belonging 
 Please have your Region, Division, or FIR/ARTCC Leadership send an email to the collaborators from their staff Region, Division, or FIR/ARTCC linked account.
 
 <br>
+<br>
+
+# Installation
+
+1) Start Menu
+2) Type in search "Run" or Navigate to "Start" -> "Accessories" -> "Run"
+3) Execute "Run"
+4) Type In: %AppData%/VAT-Spy & Press Enter
+5) Copy the VAT-Spy Data files from the package & paste both files in the VAT-Spy folder
+6) When prompted to overwrite, select "Yes". If you'd like to maintain a backup of your old files, please create another folder and move the files to this folder prior to copying the new data files.
