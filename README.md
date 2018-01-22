@@ -27,3 +27,14 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 4) Type In: %AppData%/VAT-Spy & Press Enter
 5) Copy the VAT-Spy Data files from the package & paste both files in the VAT-Spy folder
 6) When prompted to overwrite, select "Yes". If you'd like to maintain a backup of your old files, please create another folder and move the files to this folder prior to copying the new data files.
+
+
+<br>
+<br>
+
+# Who's on the Vat-Spy Client Data Update Project Team?
+
+Ross Carlson - Developer, VAT-Spy
+Alex Long (VATCAR3 Training Administrator) - Developer, Vat-Spy Client Data Update Project
+Justin Edwards (Air Traffic Manager, Piarco FIR) - Data Management Team, Vat-Spy Client Data Update Project
+JianCarlos Parades (Air Traffic Manager, Santo Domingo FIR) - Data Management Team, Vat-Spy Client Data Update Project
