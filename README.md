@@ -8,7 +8,7 @@ VATSIM Caribbean Division (VATCAR) has taken the steps to provide a central sour
 
 # How Do I Submit Updates?
 
-e have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data can be made directly from GitHub, or if you're unfamiliar with updating the data files, you can send an email request (update (at) vatspy.vatcar.org) for the data to be updated. The preferred method of updating this data is via a pull request on GitHub. Updates on GitHub that will be pushed will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are requested directly via e-mail from Region, Division, or FIRs/ARTCC staff utilizing their staff e-mail.
+We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data can be made directly from GitHub, or if you're unfamiliar with updating the data files, you can send an email request (update (at) vatspy.vatcar.org) for the data to be updated. The preferred method of updating this data is via a pull request on GitHub. Updates on GitHub that will be pushed will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are requested directly via e-mail from Region, Division, or FIRs/ARTCC staff utilizing their staff e-mail.
 
 <br>
 
