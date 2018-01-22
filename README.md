@@ -32,6 +32,6 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 # Who's on the VAT-Spy Client Data Update Project Team?
 
 Ross Carlson - Developer, VAT-Spy<br />
-Alex Long - Developer & Data Management Team, VAT-Spy Client Data Update Project<br />
-Justin Edwards - Data Management Team, VAT-Spy Client Data Update Project<br />
+Alex Long - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
+Justin Edwards - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
 JianCarlos Parades - Data Management Team, VAT-Spy Client Data Update Project<br />
