@@ -34,7 +34,7 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 
 # Who's on the Vat-Spy Client Data Update Project Team?
 
-Ross Carlson - Developer, VAT-Spy
-Alex Long (VATCAR3 Training Administrator) - Developer, Vat-Spy Client Data Update Project
-Justin Edwards (Air Traffic Manager, Piarco FIR) - Data Management Team, Vat-Spy Client Data Update Project
-JianCarlos Parades (Air Traffic Manager, Santo Domingo FIR) - Data Management Team, Vat-Spy Client Data Update Project
+Ross Carlson - Developer, VAT-Spy <br>
+Alex Long (VATCAR3 Training Administrator) - Developer, Vat-Spy Client Data Update Project<br>
+Justin Edwards (Air Traffic Manager, Piarco FIR) - Data Management Team, Vat-Spy Client Data Update Project<br>
+JianCarlos Parades (Air Traffic Manager, Santo Domingo FIR) - Data Management Team, Vat-Spy Client Data Update Project<br>
