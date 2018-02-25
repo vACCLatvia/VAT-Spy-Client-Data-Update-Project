@@ -140,7 +140,7 @@ Iraq|OR|
 Ireland|EI|Control
 Israel|LL|
 Italy|LI|Radar
-Jamaica|MK|
+Jamaica|MK|Radar
 Japan|RJ|Control
 Japan|RO|Control
 Jordan|OJ|Control
@@ -186,7 +186,7 @@ New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
 Nigeria|DN|
-Netherlands Antilles and Aruba|TN|
+Netherlands Antilles and Aruba|TN|Control
 North Korea|ZK|
 Norway|EN|Control
 Oman|OO|
@@ -252,7 +252,7 @@ Taiwan|RC|Control
 Tanzania|HT|
 Thailand|VT|
 Togo|DX|
-Trinidad and Tobago|TT|
+Trinidad and Tobago|TT|Radar
 Tunisia|DT|
 Turkey|LT|
 Turkmenistan-Uzbekistan|UT|
@@ -6034,6 +6034,8 @@ PHNA|Oahu Barbers Point Navy HI|21.308060|-158.067780||PHZH|0
 PHNG|Kaneohe Marine Corps AS HI|21.454722|-157.772222|NGF|PHZH|0
 PHNL|Honolulu Intl HI|21.318692|-157.922408|HCF|PHZH|0
 PHNL|Honolulu Intl HI|21.318692|-157.922408|HCF|PHZH|1
+PHNL|Honolulu Intl HI|21.318692|-157.922408|HNL|PHZH|0
+PHNL|Honolulu Intl HI|21.318692|-157.922408|HNL|PHZH|1
 PHNY|Lanai City HI|20.785611|-156.951419|LNY|PHZH|0
 PHOG|Kahului HI|20.898650|-156.430458|OGG|PHZH|0
 PHSF|Bradshaw Aaf-Hawaii HI|19.783060|-155.550000|BSF|PHZH|0
@@ -6298,7 +6300,7 @@ VILK|Lucknow-Chaudhary Charan Singh|26.761667|80.885278||VIDF|0
 VIPK|Pathankot-AFB|32.233611|75.634444||VIDF|0
 VIPL|Patiala|30.314722|76.363056||VIDF|0
 VIPT|Agartala|23.890000|242222||VIDF|0
-VIRB|Raebareli-Fursatganj Airfield|26.248500|81.380100||VIDF|0   
+VIRB|Raebareli-Fursatganj Airfield|26.248500|81.380100||VIDF|0
 VISM|Shimla|31.081667|77.068056||VIDF|0
 VISP|Saharanpur-Sarsawa AirForce Station|29.994167|77.424167||VIDF|0
 VISR|Srinagar International|33.987139|74.774250||VIDF|0
@@ -10667,6 +10669,7 @@ PGZU|Guam|GU|PGZU
 PGZU|Guam|GUM|PGZU
 PGZU|Guam|GUAM|PGZU
 PGZU|Guam|UAM|PGZU
+PHZH|Honolulu|HNL|PHZH
 PHZH|Honolulu|HCF|PHZH
 RCAA|Taipei|TPE|RCAA
 RJCG|Sapporo ACC - Fukuoka|SPO|RJCG
