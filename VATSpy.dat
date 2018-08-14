@@ -182,7 +182,6 @@ Nepal|VN|
 Netherlands|EH|Radar
 New Caledonia|NW|
 New Zealand|NZ|Control
-New Zealand|NZ|Control
 Nicaragua|MN|
 Niger|DR|
 Nigeria|DN|
@@ -568,7 +567,7 @@ KCSV|Crossville Memorial TN|35.951292|-85.084978|CSV|KZTL|0
 KCTO|Calverton-Grumman NY|40.916670|-72.783060|CTO|KZNY|0
 KCTY|Cross City FL|29.635528|-83.104750|CTY|KZJX|0
 KCUB|Columbia Owens Downtown SC|33.970472|-80.995250|CUB|KZJX|0
-KCVG|Covington- Cincinnati Intl|39.046142|-84.662172| CVG|KZID|0
+KCVG|Covington- Cincinnati Intl|39.046142|-84.662172|CVG|KZID|0
 KCVS|Cannon AFB- Clovis NM|34.382772|-103.322147|CVS|KZAB|0
 KCWA|Mosinee- Central Wi WI|44.777619|-89.666781|CWA|KZMP|0
 KCWF|Chenault Airpark LA|30.210592|-93.143189|CWF|KZHU|0
@@ -10372,10 +10371,10 @@ BIRD-S|Reykjavik ACC (South) - Reykjavik|BIRD_S|BIRD-S
 BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W|BIRD-W
 CZEG|Edmonton|EDM|CZEG
 CZEG|Edmonton|ZEG|CZEG
-CZQM|Moncton|MCN|
-CZQX|Gander|GAND|
-CZQX|Gander|YQX|
-CZQX|Gander Radio|GAN|
+CZQM|Moncton|MCN|CZQM
+CZQX|Gander|GAND|CZQX
+CZQX|Gander|YQX|CZQX
+CZQX|Gander Radio|GAN|CZQX
 CZUL|Montreal|MTL|CZUL
 CZVR|Vancouver|VAN|CZVR
 CZVR|Vancouver|CYVR|CZVR
