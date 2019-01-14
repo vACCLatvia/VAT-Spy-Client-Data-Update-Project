@@ -14,7 +14,7 @@ We have chosen GitHub to be the core of this project so far, as it allows for co
 
 # How Do I Verify My Account To Submit Updates?
 
-Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email to the collaborators from your/their staff Region, Division, or FIR/ARTCC linked e-mail account to update (at) vatspy.vatcar.org with your GitHub username.
+Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account to update(at)vatspy.vatcar.org with your GitHub username.
 
 <br>
 
@@ -33,5 +33,3 @@ Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership 
 
 Ross Carlson - Developer, VAT-Spy<br />
 Alex Long - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
-Justin Edwards - Data Management Team & Developer of VAT-Spy Client Data Update Project<br />
-JianCarlos Parades - Data Management Team, VAT-Spy Client Data Update Project<br />
