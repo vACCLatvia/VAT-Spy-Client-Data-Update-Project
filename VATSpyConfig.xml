@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VATSpyConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AutoRefresh>true</AutoRefresh>
+  <RefreshInterval>3</RefreshInterval>
+  <MapBookmarks />
+  <Favorites />
+  <Filters>
+    <Filter>
+      <Name>Friends</Name>
+      <ATCCallsignPatterns />
+      <FlightCallsignPatterns />
+      <CIDs>
+        <string>1010914</string>
+        <string>1224435</string>
+        <string>1247706</string>
+        <string>1253271</string>
+        <string>1271734</string>
+        <string>1282788</string>
+        <string>1286139</string>
+        <string>1294564</string>
+        <string>1296060</string>
+        <string>1350475</string>
+        <string>1358323</string>
+        <string>1360615</string>
+      </CIDs>
+      <CallsignsAndCIDs>false</CallsignsAndCIDs>
+      <DepAirports />
+      <DestAirports />
+      <DepAndDest>false</DepAndDest>
+      <Ratings />
+      <Facilities />
+      <FlightStatii />
+      <FlightType>Either</FlightType>
+      <HideNoFlightPlan>false</HideNoFlightPlan>
+    </Filter>
+    <Filter>
+      <Name>Me</Name>
+      <ATCCallsignPatterns />
+      <FlightCallsignPatterns />
+      <CIDs>
+        <string>1271734</string>
+      </CIDs>
+      <CallsignsAndCIDs>false</CallsignsAndCIDs>
+      <DepAirports />
+      <DestAirports />
+      <DepAndDest>false</DepAndDest>
+      <Ratings />
+      <Facilities />
+      <FlightStatii />
+      <FlightType>Either</FlightType>
+      <HideNoFlightPlan>false</HideNoFlightPlan>
+    </Filter>
+  </Filters>
+  <WaterDetailLevel>Low</WaterDetailLevel>
+  <IslandDetailLevel>Low</IslandDetailLevel>
+  <PromptForDataUpdate>true</PromptForDataUpdate>
+  <MaxDataAge>5</MaxDataAge>
+  <RefreshErrorActionPreference>TryAnotherServer</RefreshErrorActionPreference>
+  <RefreshStaleActionPreference>TryAnotherServer</RefreshStaleActionPreference>
+  <LastMETARCodes>MDSD</LastMETARCodes>
+  <ColorSea>
+    <Red>0.7176471</Red>
+    <Green>0.7176471</Green>
+    <Blue>0.7176471</Blue>
+  </ColorSea>
+  <ColorLand>
+    <Red>0.8156863</Red>
+    <Green>0.8156863</Green>
+    <Blue>0.8156863</Blue>
+  </ColorLand>
+  <ColorCoastline>
+    <Red>0.447058827</Red>
+    <Green>0.447058827</Green>
+    <Blue>0.447058827</Blue>
+  </ColorCoastline>
+  <ColorUnstaffedFIR>
+    <Red>0.627451</Red>
+    <Green>0.627451</Green>
+    <Blue>0.721568644</Blue>
+  </ColorUnstaffedFIR>
+  <ColorStaffedFIR>
+    <Red>0</Red>
+    <Green>0</Green>
+    <Blue>1</Blue>
+  </ColorStaffedFIR>
+  <ColorUIR>
+    <Red>0.498039216</Red>
+    <Green>0.498039216</Green>
+    <Blue>0.7490196</Blue>
+  </ColorUIR>
+  <ColorApproachCircle>
+    <Red>0</Red>
+    <Green>0.498039216</Green>
+    <Blue>0.498039216</Blue>
+  </ColorApproachCircle>
+  <ColorAirportLabel>
+    <Red>0.498039216</Red>
+    <Green>0.498039216</Green>
+    <Blue>0.498039216</Blue>
+  </ColorAirportLabel>
+  <ColorFlightSymbol>
+    <Red>0</Red>
+    <Green>0</Green>
+    <Blue>0</Blue>
+  </ColorFlightSymbol>
+  <ColorFlightCallsign>
+    <Red>0</Red>
+    <Green>0</Green>
+    <Blue>0</Blue>
+  </ColorFlightCallsign>
+  <ColorFlightHighlight>
+    <Red>1</Red>
+    <Green>0.5019608</Green>
+    <Blue>0</Blue>
+  </ColorFlightHighlight>
+  <ColorDepDestLines>
+    <Red>1</Red>
+    <Green>0</Green>
+    <Blue>0</Blue>
+  </ColorDepDestLines>
+  <CustomColors>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+    <int>16777215</int>
+  </CustomColors>
+  <MapShowFlights>true</MapShowFlights>
+  <MapShowFlightCallsigns>true</MapShowFlightCallsigns>
+  <MapHighlightFiltered>true</MapHighlightFiltered>
+  <MapShowATC>true</MapShowATC>
+  <MapShowFIRs>true</MapShowFIRs>
+  <MapShowFIRLabels>true</MapShowFIRLabels>
+  <MapShowStaffedAirports>true</MapShowStaffedAirports>
+  <MapShowUnstaffedAirports>true</MapShowUnstaffedAirports>
+  <MapShowInactiveAirports>true</MapShowInactiveAirports>
+  <MapShowOpsCounts>true</MapShowOpsCounts>
+  <LastSelectedJumpCode>KZMO</LastSelectedJumpCode>
+  <LastSelectedFilter>Friends</LastSelectedFilter>
+  <LastViewedCountry>USA</LastViewedCountry>
+  <LastViewedFIR>KZMO</LastViewedFIR>
+  <LastViewedAirport>KSAT</LastViewedAirport>
+  <LastMapCenter>
+    <Lon>-70.063319325356275</Lon>
+    <Lat>19.736713984599202</Lat>
+  </LastMapCenter>
+  <LastMapZoom>0.40126087468454441</LastMapZoom>
+  <LastVisibleTab>0</LastVisibleTab>
+  <LastWindowLocation>
+    <X>2376</X>
+    <Y>280</Y>
+  </LastWindowLocation>
+  <LastWindowSize>
+    <Width>974</Width>
+    <Height>1047</Height>
+  </LastWindowSize>
+  <WindowMaximized>true</WindowMaximized>
+  <MapFontUnstaffedATC>
+    <Family>Verdana</Family>
+    <Size>8</Size>
+    <Style>Bold</Style>
+  </MapFontUnstaffedATC>
+  <MapFontStaffedATC>
+    <Family>Verdana</Family>
+    <Size>8</Size>
+    <Style>Bold</Style>
+  </MapFontStaffedATC>
+  <MapFontAirports>
+    <Family>Verdana</Family>
+    <Size>8</Size>
+    <Style>Regular</Style>
+  </MapFontAirports>
+  <MapFontAircraft>
+    <Family>Verdana</Family>
+    <Size>8</Size>
+    <Style>Regular</Style>
+  </MapFontAircraft>
+  <MapFontPopupText>
+    <Family>Verdana</Family>
+    <Size>8</Size>
+    <Style>Regular</Style>
+  </MapFontPopupText>
+  <UseProxy>false</UseProxy>
+  <UseDefaultProxy>true</UseDefaultProxy>
+  <ProxyAddress />
+  <ProxyPort>80</ProxyPort>
+  <ProxyUser />
+  <ProxyPassword />
+</VATSpyConfig>
