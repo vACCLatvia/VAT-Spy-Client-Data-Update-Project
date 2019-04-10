@@ -2,19 +2,17 @@
 
 VAT-Spy is an Air Traffic and ATC Display client that was designed by Ross Carlson for the VATSIM Network. VAT-Spy can be obtained at <a href="http://www1.metacraft.com/VATSpy/">http://www1.metacraft.com/VATSpy/</a>
 
-VATSIM Caribbean Division (VATCAR) has taken the steps to provide a central source of maintained data for the VAT-Spy client. It is the hope that this will eventually become a community based project, with members from across the VATSIM Network from various Regions, Divisions, and FIRs/ARTCCs contributing data and keeping the application current.
-
 <br>
 
 # How Do I Submit Updates?
 
-We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data can be made directly from GitHub, or if you're unfamiliar with updating the data files, you can send an email request (update (at) vatspy.vatcar.org) for the data to be updated. The preferred method of updating this data is via a pull request on GitHub. Updates on GitHub that will be pushed will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are requested directly via e-mail from Region, Division, or FIRs/ARTCC staff utilizing their staff e-mail.
+We have chosen GitHub to be the core of this project so far, as it allows for collaboration on the project and near real-time updates to VAT-Spy data once a pull request has been pushed to the live data. Updates to data can be made directly from GitHub, or if you're unfamiliar with updating the data files, you can send an email request for the data to be updated. The preferred method of updating this data is via a pull request on GitHub. Updates on GitHub that will be pushed will be those that either come from verified GitHub accounts belonging to Regions, Divisions, or FIRs/ARTCCs or updates that are requested directly via e-mail from Region, Division, or FIRs/ARTCC staff utilizing their staff e-mail.
 
 <br>
 
 # How Do I Verify My Account To Submit Updates?
 
-Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account to update(at)vatspy.vatcar.org with your GitHub username.
+Please send an email to, or have your Region, Division, or FIR/ARTCC Leadership send an email from your/their staff Region, Division, or FIR/ARTCC linked e-mail account with your GitHub username.
 
 <br>
 
